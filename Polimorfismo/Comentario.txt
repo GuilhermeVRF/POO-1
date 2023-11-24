@@ -1,0 +1,5 @@
+Esse foi um simples projeto desenvolvido por fora mas relacionado a discplina de POO
+-Nela eu trabalheu conceitos de:
+*Polimorfismo, usando classe abstract e o operador instanceof, além de casting;
+*Algumas boas práticas de programação como Factory e Strategy;
+*O uso do Iterator juntamente da classe ArrayList do Java;
